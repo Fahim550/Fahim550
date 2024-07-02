@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">A passionate Full developer from Bangladesh.</p>
+<p align="center">A passionate Full Stack developer from Bangladesh.</p>
 
 ###
 
